@@ -7,5 +7,6 @@ wheels/
 *.egg-info
 __pychache__/
 .idea/
+.ruff_cache/
 # Virtual environments
 .venv
