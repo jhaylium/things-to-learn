@@ -1,5 +1,5 @@
 import pytest
-from addition import add  # replace with your actual file name (without .py)
+from src.simple_request.addition import add
 
 def test_add_positive_numbers():
     assert add(1, 2) == 3
