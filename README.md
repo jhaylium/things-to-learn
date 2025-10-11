@@ -59,6 +59,13 @@ and mark up. I used it to get up to speed on YAML.
 [x] [Microsoft Agent Framework](https://learn.microsoft.com/en-us/microsoft-copilot-studio/fundamentals-get-started)
 - This is GUI based and not really my bag.
 
+[ ] [Claude Web Search API](https://www.anthropic.com/news/web-search-api)
+
+[ ] [Gemini Web Serch](https://ai.google.dev/gemini-api/docs/google-search#:~:text=While%20the%20google_search%20tool%20is%20recommended%20for,and%201.0%2C%20it%20will%20perform%20a%20search.)
+
+[ ] [OpenAI Web Search](https://platform.openai.com/docs/guides/tools-web-search?api-mode=responses)
+
+
 ### AWS Specific Readings
 [ ] [Dev To Agent Tutorials](https://dev.to/aws-builders/tutorial-build-an-agentic-ai-application-with-agents-for-amazon-bedrock-2cpk)
 
