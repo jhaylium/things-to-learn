@@ -1,4 +1,3 @@
-import pytest
 from src.simple_request.addition import add
 
 def test_add_positive_numbers():
