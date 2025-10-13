@@ -3,7 +3,6 @@ from agents import set_default_openai_key
 import src.common.furniture.furniture_prompts as prompts
 from src.common.furniture.furniture_details import items
 from config import settings
-from pprint import pprint
 
 set_default_openai_key(settings.openai_key)
 
