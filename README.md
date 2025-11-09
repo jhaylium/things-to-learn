@@ -66,7 +66,7 @@ and mark up. I used it to get up to speed on YAML.
 
 [x] [OpenAI Web Search](https://platform.openai.com/docs/guides/tools-web-search?api-mode=responses)
 
-[ ] [Agent2Agent Announcement](https://developers.googleblog.com/en/a2a-a-new-era-of-agent-interoperability/)
+[x] [Agent2Agent Announcement](https://developers.googleblog.com/en/a2a-a-new-era-of-agent-interoperability/)
 
 ### AWS Specific Readings
 [ ] [Dev To Agent Tutorials](https://dev.to/aws-builders/tutorial-build-an-agentic-ai-application-with-agents-for-amazon-bedrock-2cpk)
@@ -76,6 +76,10 @@ and mark up. I used it to get up to speed on YAML.
 [ ] [Amazon Bedrock Agents](https://github.com/build-on-aws/amazon-bedrock-agents-quickstart)
 
 [ ] [Bedrock Samples and Tutorials](https://github.com/awslabs/amazon-bedrock-agentcore-samples)
+
+[ ] [How I came in first on ARC-AGI-Pub](https://jeremyberman.substack.com/p/how-i-got-a-record-536-on-arc-agi)
+
+[ ] [How I got the highest score on ARC-AGI again](https://jeremyberman.substack.com/p/how-i-got-the-highest-score-on-arc-agi-again)
 
 ### Model Evaluation
 I want to determinine which models make sense to use from an API standpoint. I'd like to try all of the ones that I can out and API is going to be my first stab at this. Down the road I'll try this with an OpenSource Model that does not have an API.
